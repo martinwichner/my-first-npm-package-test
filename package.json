@@ -1,6 +1,6 @@
 {
   "name": "my-first-npm-package-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "First test to publish something",
   "main": "index.tsx",
   "author": "Martin Mohn",
